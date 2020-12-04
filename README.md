@@ -8,7 +8,7 @@ This is where you can view all the updates, future updates, and anything develop
 The main branch holds important information, links, and announcements.
 
 ### How do I report a bug to a developer?
-Head to the issues page and view the tutorial we have posted!
+Head to the [issues page](https://github.com/NosadfacesRBLX/csdrblx/issues) and view the [tutorial](https://github.com/NosadfacesRBLX/csdrblx/issues/5) we have posted!
 
 ## Do you have any rules?
 Yes, you can find them [here](https://github.com/NosadfacesRBLX/csdrblx/blob/main/SECURITY%20POLICY.md).
