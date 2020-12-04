@@ -5,7 +5,7 @@ Camp Sunny Days is a ROBLOX game that you can play! We focus on the game and its
 The update branch holds information about each update that is posted to the game.
 
 ### How do I report a bug to a developer?
-Head to the issues page and view the tutorial we have posted!
+Head to the [issues page](https://github.com/NosadfacesRBLX/csdrblx/issues) and view the [tutorial](https://github.com/NosadfacesRBLX/csdrblx/issues/5) we have posted!
 
 ## [LINKS]
 Visit our [website here](https://www.campsunnydaysrblx.com), or [join our discord server here](https://www.discord.gg/Mcchmmv).
