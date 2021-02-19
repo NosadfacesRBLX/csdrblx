@@ -7,7 +7,7 @@ Please run the **`csd!help`** command to view a list of our commands and what th
 
 ### Important Links & Information
 Feel free to create an [Issue](https://github.com/NosadfacesRBLX/csdrblx/issues/5) if you run into any errors with the bot.
-> DO NOT CREATE AN ISSUE IF THE BOT DOESN'T RESPOND AS IT MAY BE OFFLINE
-> However, if the bot is online and not responding, then you may do so.
+> DO NOT CREATE AN ISSUE IF THE BOT DOESN'T RESPOND AS IT MAY BE OFFLINE.
+> *However, if the bot is online and not responding, then you may do so.*
 
 [CSD Discord](https://www.campsunnydaysrblx.com/discord)
